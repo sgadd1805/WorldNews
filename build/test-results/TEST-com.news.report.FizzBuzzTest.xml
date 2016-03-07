@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.news.report.FizzBuzzTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-03-07T12:09:11" hostname="Stephens-MBP.attlocal.net" time="0.001">
+  <properties/>
+  <testcase name="fizzbuzzzTest" classname="com.news.report.FizzBuzzTest" time="0.0"/>
+  <testcase name="fizzTest" classname="com.news.report.FizzBuzzTest" time="0.0"/>
+  <testcase name="buzzzCapitalTest" classname="com.news.report.FizzBuzzTest" time="0.0"/>
+  <testcase name="errorTest" classname="com.news.report.FizzBuzzTest" time="0.0"/>
+  <testcase name="buzzzTest" classname="com.news.report.FizzBuzzTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
